@@ -1,6 +1,8 @@
 # react-flags-select
 
 A customizable React library for SVG country flag selectors and standalone SVG flag components, featuring configurable country ordering to prioritize specific countries in the dropdown.
+
+This package was originally built by [https://github.com/ekwonye-richard/react-flags-select]
 ## Demo and Example
 
 Live demo: [Original React Flags Select Storybook](https://ekwonye-richard.github.io/react-flags-select/?path=/story/reactflagsselect--primary)
